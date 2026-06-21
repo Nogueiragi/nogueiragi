@@ -6,7 +6,7 @@ Me chamo Geovanna Dias Nogueira, tenho 20 anos e sou natural de São Paulo. Estu
 
   
 
-### 🤖 Linguagens e Tecnologias
+### 🎀 Linguagens e Tecnologias
 
 <img 
     align="left" 
