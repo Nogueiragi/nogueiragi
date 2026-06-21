@@ -1,97 +1,66 @@
-## Hi there 👋
-# Portfólio Profissional
+# ⚕👩🏻‍💻 Geovanna Nogueira
 
-## Projeto: PortfolioGUI
+**`Estudante de Python`**
 
-Aplicativo Java Swing que exibe um portfólio profissional em uma janela gráfica, com informações sobre formação, experiência, habilidades, objetivos e contato.
+Me chamo Geovanna Dias Nogueira, tenho 20 anos e sou natural de São Paulo. Estudante de Programação Python e atualmente cursando o 4º semestre de Biomedicina. Tenho experiência em clínica odontológica e farmácia, com atuação em atendimento,organização de processos e suporte em ambientes de saúde e estética. Quero unir a tecnologia e saúde através do desenvolvimento de sistemas que contribuam para a melhoria dos processos e do atendimento.
 
-### Descrição
+  
 
-- Interface simples usando `JFrame`, `JPanel`, `JLabel` e `JTextArea`.
-- Texto formatado e rolável com `JScrollPane`.
-- Ideal para demonstrar habilidades em Java GUI e apresentação de portfólio.
+### 🤖 Linguagens e Tecnologias
 
-### Como executar
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-```bash
-javac PortfolioGUI.java
-java PortfolioGUI
-```
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-### Código principal
+<br/>
+<br/>
 
-```java
-import javax.swing.*;
-import java.awt.*;
+### 📊 Estatísticas
 
-public class PortfolioGUI extends JFrame {
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-    public PortfolioGUI() {
-        setTitle("Portfólio Profissional");
-        setSize(700, 500);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setLocationRelativeTo(null);
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-        JPanel painel = new JPanel();
-        painel.setLayout(new BorderLayout());
-
-        JLabel titulo = new JLabel("Meu Portfólio", SwingConstants.CENTER);
-        titulo.setFont(new Font("Arial", Font.BOLD, 28));
-
-        JTextArea conteudo = new JTextArea();
-        conteudo.setEditable(false);
-        conteudo.setFont(new Font("Arial", Font.PLAIN, 16));
-        conteudo.setText(
-                "SOBRE MIM\n\n"
-                        + "Estudante de Programação Python e atualmente cursando o 4º semestre de Biomedicina.\n\n"
-                        + "Tenho experiência em clínica odontológica e farmácia, com atuação em atendimento,\n"
-                        + "organização de processos e suporte em ambientes de saúde e estética.\n\n"
-                        + "HABILIDADES\n\n"
-                        + "• Python\n"
-                        + "• Java\n"
-                        + "• Git e GitHub\n"
-                        + "• Lógica de Programação\n"
-                        + "• Atendimento ao Público\n"
-                        + "• Organização e Trabalho em Equipe\n\n"
-                        + "OBJETIVOS\n\n"
-                        + "Unir tecnologia e saúde através do desenvolvimento de sistemas\n"
-                        + "que contribuam para a melhoria dos processos e do atendimento.\n\n"
-                        + "CONTATO\n\n"
-                        + "GitHub: github.com/seuusuario\n"
-                        + "LinkedIn: linkedin.com/in/seuperfil\n"
-                        + "E-mail: geovannagd.nogueira@gmail.com"
-        );
-
-        JScrollPane scroll = new JScrollPane(conteudo);
-
-        painel.add(titulo, BorderLayout.NORTH);
-        painel.add(scroll, BorderLayout.CENTER);
-        add(painel);
-    }
-
-    public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> {
-            PortfolioGUI portfolio = new PortfolioGUI();
-            portfolio.setVisible(true);
-        });
-    }
-}
-```
-
----
-
-Use esta entrada no seu portfólio para mostrar um projeto Java com interface gráfica e apresentação profissional.
-<!--
-**Nogueiragi/nogueiragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
