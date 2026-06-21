@@ -44,4 +44,4 @@ Me chamo Geovanna Dias Nogueira, tenho 20 anos e sou natural de São Paulo. Estu
 
 ## **Onde me encontrar**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-nogueira-4418b9369/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geovannagdnogueira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](emailto:geovannagdnogueira@gmail.com)
