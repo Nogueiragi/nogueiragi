@@ -1,4 +1,4 @@
-<img width="480" height="250" alt="Whats Up Hello GIF" src="https://github.com/user-attachments/assets/cb90b9e8-6308-4fa0-8a33-a12838c75d43" />
+<img width="100" height="100" alt="gatinho file" src="https://github.com/user-attachments/assets/bfd41ae4-4754-4a9f-b637-fe2eccefd03d" />
 
 # ⚕👩🏻‍💻 Geovanna Nogueira
 
