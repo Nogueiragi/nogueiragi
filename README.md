@@ -1,4 +1,5 @@
-<img width="480" height="480" alt="Cute Cat Hello GIF by Furrend" src="https://github.com/user-attachments/assets/a9279037-1fd4-4807-b42d-46c64be1c78a" />
+<p align="center">
+  <img src="Cute Cat Hello GIF by Furrend.jpg" width="200" alt="Cat Hello GIF" /></p>
 # ⚕👩🏻‍💻 Geovanna Nogueira
 
 **`Estudante de Python`**
