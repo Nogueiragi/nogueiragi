@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./gatinho.file" width="200" alt="Cat Hello GIF" />
-</p>
+<img width="480" height="250" alt="Whats Up Hello GIF" src="https://github.com/user-attachments/assets/cb90b9e8-6308-4fa0-8a33-a12838c75d43" />
+
 # ⚕👩🏻‍💻 Geovanna Nogueira
 
 **`Estudante de Python`**
