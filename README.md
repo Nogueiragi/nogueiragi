@@ -1,4 +1,3 @@
-<img width="480" height="480" alt="Cute Cat Hello GIF by Furrend" src="https://github.com/user-attachments/assets/34a7cb33-2b3c-40af-9e80-02a38b69b3cd" />
 <p align="center">
   <img src="./gatinho.file" width="200" alt="Cat Hello GIF" />
 </p>
