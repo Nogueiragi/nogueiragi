@@ -1,5 +1,7 @@
 <img width="100" height="100" alt="gatinho file" src="https://github.com/user-attachments/assets/bfd41ae4-4754-4a9f-b637-fe2eccefd03d" />
-
+<p align="center">
+  <img src="gatinho file" width="100" />
+</p>
 # ⚕👩🏻‍💻 Geovanna Nogueira
 
 **`Estudante de Python`**
