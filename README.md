@@ -10,7 +10,7 @@ Me chamo Geovanna Dias Nogueira, tenho 20 anos e sou natural de São Paulo. Estu
 
 
 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
