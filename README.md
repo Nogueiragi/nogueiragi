@@ -47,7 +47,15 @@ Me chamo Geovanna Dias Nogueira, tenho 20 anos e sou natural de São Paulo. Estu
     width="30px" 
     style="padding-right: 10px;" 
     Src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-          />
+  />
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    Src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
 <br/>
 <br/>
 
